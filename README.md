@@ -1,3 +1,3 @@
 Site Link :
 
-dev-akif-typing-test.vercel.app
+https://dev-akif-typing-test.vercel.app/
